@@ -1,5 +1,5 @@
 # Mapping Rent Pressure Zones in Ireland
-There doesn't seem to be a polygon file for RPZs, so here is one as of the November 2023 update from the Housing Agency.
+There doesn't seem to be a polygon file for RPZs, so here is one as of the November 2023 update from the Housing Agency. Also available are aggregation by county and a single multipolygon for the entire country.
 
 The notebook slices up Tailte Eireann's Local Election Area geoJSON to match both the text and map description on the Housing Agency's web site.
 
